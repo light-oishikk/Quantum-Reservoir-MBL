@@ -1,0 +1,6 @@
+Train g,Test g,W_star (test),AUC,Accuracy,Note
+0.3,0.3,3.5,0.9525083333333335,0.885,self-test (CV)
+0.3,0.1,3.5,0.9085991666666666,0.699375,cross-g transfer
+0.3,0.2,3.5,0.9566125,0.8625,cross-g transfer
+0.3,0.4,3.5,0.9123233333333333,0.8575,cross-g transfer
+0.3,0.5,0.832528180354267,0.8187325,0.7675,cross-g transfer
